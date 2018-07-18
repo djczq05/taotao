@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="taotao-parent" key="DirectorySelectionPage.lastParent_https://desktop-a2qm1k1:8443/svn/taotao/trunk"/>
+	<item value="63" key="CommitDialog.location.y"/>
+	<item value="90" key="CommitDialog.location.x"/>
+	<item value="500" key="CommitDialog.weights.0"/>
+	<item value="500" key="CommitDialog.weights.1"/>
+	<item value="452" key="CommitDialog.size.y"/>
+	<item value="1186" key="CommitDialog.size.x"/>
+	<item value="" key="DirectorySelectionPage.lastParent_https://desktop-a2qm1k1:8443/svn/Taotao/trunk"/>
+	<item value="497" key="ChooseUrlDialog.size.x"/>
+	<item value="606" key="SwitchDialogWithConflictHandling.size.x"/>
+	<item value="728" key="SwitchDialogWithConflictHandling.size.y"/>
+	<item value="377" key="ChooseUrlDialog.size.y"/>
+	<item value="trunk" key="DirectorySelectionPage.lastParent_https://desktop-a2qm1k1:8443/svn/taotao"/>
+	<item value="https://desktop-a2qm1k1:8443/svn/Taotao/trunk" key="RepositorySelectionPage.lastRepository"/>
+	<item value="https://desktop-a2qm1k1:8443/svn/taotao/trunk/taotao-manager" key="UrlCombo.taotao-manager.0"/>
+	<item value="435" key="ChooseUrlDialog.location.x"/>
+	<item value="60" key="ChooseUrlDialog.location.y"/>
+	<item value="0" key="SwitchDialogWithConflictHandling.location.y"/>
+	<item value="trunk" key="DirectorySelectionPage.lastParent_https://desktop-a2qm1k1:8443/svn/Taotao"/>
+	<item value="380" key="SwitchDialogWithConflictHandling.location.x"/>
+	<section name="CommitWizard">
+		<item value="500" key="VWeight2"/>
+		<item value="500" key="VWeight1"/>
+		<item value="false" key="ShowCompare"/>
+	</section>
+	<section name="IgnoreResourcesDialog">
+		<item value="0" key="Action"/>
+	</section>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://DESKTOP-A2QM1K1:8443/svn/Taotao/"/>
+			<item value="https://DESKTOP-A2QM1K1:8443/svn/Taotao/trunk"/>
+			<item value="https://DESKTOP-A2QM1K1:8443/svn/taotao/"/>
+			<item value="https://DESKTOP-A2QM1K1:8443/svn/taotao/trunk"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>

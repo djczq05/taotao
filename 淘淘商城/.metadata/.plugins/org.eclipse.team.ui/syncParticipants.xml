@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syncparticipants>
+<participant displayName="SVN (/taotao-common, /taotao-manager, /taotao-manager-web, /taotao-parent)" id="org.tigris.subversion.subclipse.participant" secondary_id="1529288651548">
+<data root="false">
+<org.eclipse.team.ui.TEAMSUBSRCIBERSETTINGS org.eclipse.team.ui.SCOPE_TYPE="ResourceScope">
+<org.eclipse.team.ui.TEAMSUBSRCIBER_REFRESHSCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-common"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-manager"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-manager-web"/>
+<resource_scope_roots resource_scope_root_resource="/taotao-parent"/>
+</org.eclipse.team.ui.TEAMSUBSRCIBERSETTINGS>
+</data>
+</participant>
+</syncparticipants>

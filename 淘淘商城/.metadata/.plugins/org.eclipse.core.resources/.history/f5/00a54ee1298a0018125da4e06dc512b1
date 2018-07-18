@@ -1,0 +1,6 @@
+package com.taotao.controller;
+
+@Controller
+public class ItemController {
+
+}

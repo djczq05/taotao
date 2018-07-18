@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 17 21:50:52 CST 2018
+@default-spy-http\://files.couchbase.com/maven2/.lastUpdated=1529242997807
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1529243452684
+http\://files.couchbase.com/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.3 from/to spy (http\://files.couchbase.com/maven2/)\: The operation was cancelled.
